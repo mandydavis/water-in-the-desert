@@ -28,13 +28,16 @@ class BlogPostTemplate extends React.Component {
           )}
 
           {post.frontmatter.thumbnail && (
+            
             <div className="post-content-image">
+              
               <Img
                 className="kg-image"
                 fluid={post.frontmatter.thumbnail.childImageSharp.fluid}
                 alt={post.frontmatter.title}
               />
             </div>
+
           )}
 
           <div

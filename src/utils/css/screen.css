@@ -25,7 +25,7 @@ production stylesheet in assets/built/screen.css using gulp dev
 /* ---------------------------------------------------------- */
 
 body {
-    font-family: 'Muli', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background: var(--color-bg);
     transition: background 0.3s ease-out;
     transition-delay: 0.25;
@@ -68,7 +68,7 @@ body {
     padding: 13vw 0;
     max-width: 70%;
     margin: auto;
-    text-align: center;
+    text-align: left;
 }
 
 .error-head {
@@ -98,7 +98,7 @@ body {
 
 .page-head-title {
     margin: 0;
-    font-size: 4.2rem;
+    font-size: 4rem;
     color: var(--color-base);
 }
 @media (max-width: 500px) {

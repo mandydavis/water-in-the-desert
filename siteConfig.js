@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London',
-  shortName: 'London',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
+  name: 'Desert/Water',
+  shortName: 'Desert/Water',
+  description: 'A visual essay exploring the contrast between the Phoenix desert and the water that sustains it.',
   url: 'https://gatsby-london.netlify.com', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Imed Adel',
+  author: 'Mandy Davis',
   twitter: 'Imed_Adel'
 }

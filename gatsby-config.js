@@ -3,6 +3,7 @@ const siteConfig = require("./siteConfig")
 
 module.exports = {
   siteMetadata: {
+    pathPrefix: "/water-in-the-desert",
     title: siteConfig.name,
     author: siteConfig.author,
     description: siteConfig.description,
@@ -92,7 +93,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/water-drop.png`,
       },
     },
     `gatsby-plugin-netlify`,
