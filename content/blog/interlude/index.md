@@ -4,7 +4,10 @@ date: "2019-05-04"
 thumbnail: ./cloud_thumbnail.jpg
 description: (a teenager's fascination caught on camera)
 ---
-A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
+
+I took all of these videos in the immediate proximity of my house on January 20th, 2017 on a very rainy desert day. 
+
+Note: This page will probably take a long time to load and may not work on a mobile device. My apologies!
 
 ![Cactus](./roof_rain.gif)
 
