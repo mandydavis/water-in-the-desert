@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Desert/Water]]></title><description><![CDATA[A visual essay exploring the contrast between the Phoenix desert and the water that sustains it.]]></description><link>https://mandydavis.github.io/water-in-the-desert/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 16 Mar 2021 00:49:47 GMT</lastBuildDate><item><title><![CDATA[Preface]]></title><description><![CDATA[This visual essay is meant to be an exploration of water in Arizona, intimately told from my perspective as someone who was born and raised…]]></description><link>https://mandydavis.github.io/water-in-the-desert//preface/</link><guid isPermaLink="false">https://mandydavis.github.io/water-in-the-desert//preface/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This visual essay is meant to be an exploration of water in Arizona, intimately told from my perspective as someone who was born and raised in suburban Phoenix.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Desert/Water]]></title><description><![CDATA[A visual essay exploring the contrast between the Phoenix desert and the water that sustains it.]]></description><link>https://mandydavis.github.io/water-in-the-desert/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 16 Mar 2021 01:35:51 GMT</lastBuildDate><item><title><![CDATA[Preface]]></title><description><![CDATA[This visual essay is meant to be an exploration of water in Arizona, intimately told from my perspective as someone who was born and raised…]]></description><link>https://mandydavis.github.io/water-in-the-desert//preface/</link><guid isPermaLink="false">https://mandydavis.github.io/water-in-the-desert//preface/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This visual essay is meant to be an exploration of water in Arizona, intimately told from my perspective as someone who was born and raised in suburban Phoenix.
 This is not a typical academic essay. The essay takes form through four chapters and an epilogue, and includes many, many photos. Several the photos are original, either taken by myself or one of my parents. This is purposeful for multiple reasons. Firstly, as the author, I am so closely tied to the subject that it would be impossible to escape any bias I have towards the subject, so in a creative choice, I decided to go to the one extreme, which is to be unabashedly honest about my connection to the topic. Thus, I attempt, with my utmost effort, to share how I view water in the desert through my own eyes. Secondly, Phoenix’s water is what quite literally sustained me for the first 18 years of my life. I have lived the rare experience of returning to the same home my parents returned to from the hospital with my newborn self as when I came home after my high school graduation ceremony. The same pipes, the same tap, have always hydrated me, and for so long, I took it for granted. This is a tribute to that.
 The order of the four chapters roughly corresponds to the timeline of my conscience with respect to the phenomenon of water in Phoenix. That is, towards the beginning there is a photo of me as a child in my Aunt’s swimming pool, whereas the ending chapter is a case study about water on the Gila River Indian Reservation and is the most formally written of the four chapters.
 To the reader: My hope is that you find this essay accessible, yet also artistically curious. Through these photos and words, I hope to communicate the complex relationship that exists between desert and water. At some moments, it seems ”desert” and  “water” are antonyms; in other moments, the two are inextricable.
@@ -9,7 +9,7 @@ Note: All images on this website are used according to copyright law. Images are
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3a0f955107b68b98330169fbd6da5407/6d399/mandy_in_pool.jpg&quot;
+    href=&quot;/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/6d399/mandy_in_pool.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -25,32 +25,32 @@ Note: All images on this website are used according to copyright law. Images are
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/3a0f955107b68b98330169fbd6da5407/53e9f/mandy_in_pool.webp 340w,
-/static/3a0f955107b68b98330169fbd6da5407/0991f/mandy_in_pool.webp 680w,
-/static/3a0f955107b68b98330169fbd6da5407/9d77c/mandy_in_pool.webp 1360w,
-/static/3a0f955107b68b98330169fbd6da5407/27063/mandy_in_pool.webp 2040w,
-/static/3a0f955107b68b98330169fbd6da5407/82c87/mandy_in_pool.webp 2720w,
-/static/3a0f955107b68b98330169fbd6da5407/8da9a/mandy_in_pool.webp 3008w&quot;
+          srcset=&quot;/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/53e9f/mandy_in_pool.webp 340w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/0991f/mandy_in_pool.webp 680w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/9d77c/mandy_in_pool.webp 1360w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/27063/mandy_in_pool.webp 2040w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/82c87/mandy_in_pool.webp 2720w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/8da9a/mandy_in_pool.webp 3008w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/3a0f955107b68b98330169fbd6da5407/a0703/mandy_in_pool.jpg 340w,
-/static/3a0f955107b68b98330169fbd6da5407/5041d/mandy_in_pool.jpg 680w,
-/static/3a0f955107b68b98330169fbd6da5407/fe1b8/mandy_in_pool.jpg 1360w,
-/static/3a0f955107b68b98330169fbd6da5407/25fce/mandy_in_pool.jpg 2040w,
-/static/3a0f955107b68b98330169fbd6da5407/9bc5d/mandy_in_pool.jpg 2720w,
-/static/3a0f955107b68b98330169fbd6da5407/6d399/mandy_in_pool.jpg 3008w&quot;
+          srcset=&quot;/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/a0703/mandy_in_pool.jpg 340w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/5041d/mandy_in_pool.jpg 680w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/fe1b8/mandy_in_pool.jpg 1360w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/25fce/mandy_in_pool.jpg 2040w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/9bc5d/mandy_in_pool.jpg 2720w,
+/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/6d399/mandy_in_pool.jpg 3008w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/3a0f955107b68b98330169fbd6da5407/fe1b8/mandy_in_pool.jpg&quot;
+          src=&quot;/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/fe1b8/mandy_in_pool.jpg&quot;
           alt=&quot;Pools-ponds-lawns&quot;
           title=&quot;&quot;
-          src=&quot;/static/3a0f955107b68b98330169fbd6da5407/fe1b8/mandy_in_pool.jpg&quot;
+          src=&quot;/water-in-the-desert/static/3a0f955107b68b98330169fbd6da5407/fe1b8/mandy_in_pool.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -61,7 +61,7 @@ Note: All images on this website are used according to copyright law. Images are
 &lt;p&gt;&lt;img src=&quot;./sprinkler.jpeg&quot; alt=&quot;Pools-ponds-lawns&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ch 2: Back in Time]]></title><link>https://mandydavis.github.io/water-in-the-desert//back-in-time/</link><guid isPermaLink="false">https://mandydavis.github.io/water-in-the-desert//back-in-time/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg&quot;
+    href=&quot;/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -77,28 +77,28 @@ Note: All images on this website are used according to copyright law. Images are
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/53e9f/cody-davis-253925-unsplash.webp 340w,
-/static/9bd155b91c231debb6f82d7b9852fa76/0991f/cody-davis-253925-unsplash.webp 680w,
-/static/9bd155b91c231debb6f82d7b9852fa76/9d77c/cody-davis-253925-unsplash.webp 1360w,
-/static/9bd155b91c231debb6f82d7b9852fa76/24475/cody-davis-253925-unsplash.webp 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/53e9f/cody-davis-253925-unsplash.webp 340w,
+/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/0991f/cody-davis-253925-unsplash.webp 680w,
+/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/9d77c/cody-davis-253925-unsplash.webp 1360w,
+/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/24475/cody-davis-253925-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/a0703/cody-davis-253925-unsplash.jpg 340w,
-/static/9bd155b91c231debb6f82d7b9852fa76/5041d/cody-davis-253925-unsplash.jpg 680w,
-/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg 1360w,
-/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/a0703/cody-davis-253925-unsplash.jpg 340w,
+/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/5041d/cody-davis-253925-unsplash.jpg 680w,
+/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg 1360w,
+/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
           alt=&quot;It&apos;s all blue&quot;
           title=&quot;&quot;
-          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -109,7 +109,7 @@ Note: All images on this website are used according to copyright law. Images are
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg&quot;
+    href=&quot;/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -125,28 +125,28 @@ Note: All images on this website are used according to copyright law. Images are
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/53e9f/cody-davis-259003-unsplash.webp 340w,
-/static/b833f68b610104a59dcc9d3be77f6170/0991f/cody-davis-259003-unsplash.webp 680w,
-/static/b833f68b610104a59dcc9d3be77f6170/9d77c/cody-davis-259003-unsplash.webp 1360w,
-/static/b833f68b610104a59dcc9d3be77f6170/24475/cody-davis-259003-unsplash.webp 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/53e9f/cody-davis-259003-unsplash.webp 340w,
+/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/0991f/cody-davis-259003-unsplash.webp 680w,
+/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/9d77c/cody-davis-259003-unsplash.webp 1360w,
+/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/24475/cody-davis-259003-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/a0703/cody-davis-259003-unsplash.jpg 340w,
-/static/b833f68b610104a59dcc9d3be77f6170/5041d/cody-davis-259003-unsplash.jpg 680w,
-/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg 1360w,
-/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/a0703/cody-davis-259003-unsplash.jpg 340w,
+/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/5041d/cody-davis-259003-unsplash.jpg 680w,
+/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg 1360w,
+/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
           alt=&quot;It&apos;s all blue&quot;
           title=&quot;&quot;
-          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -156,7 +156,7 @@ Note: All images on this website are used according to copyright law. Images are
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ch 3: Sources, Canals, Dams]]></title><link>https://mandydavis.github.io/water-in-the-desert//sources-canals-dams/</link><guid isPermaLink="false">https://mandydavis.github.io/water-in-the-desert//sources-canals-dams/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg&quot;
+    href=&quot;/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -172,28 +172,28 @@ Note: All images on this website are used according to copyright law. Images are
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/53e9f/clem-onojeghuo-207792-unsplash.webp 340w,
-/static/6346e1b3959c2359992fc4a3055afae7/0991f/clem-onojeghuo-207792-unsplash.webp 680w,
-/static/6346e1b3959c2359992fc4a3055afae7/9d77c/clem-onojeghuo-207792-unsplash.webp 1360w,
-/static/6346e1b3959c2359992fc4a3055afae7/24475/clem-onojeghuo-207792-unsplash.webp 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/53e9f/clem-onojeghuo-207792-unsplash.webp 340w,
+/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/0991f/clem-onojeghuo-207792-unsplash.webp 680w,
+/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/9d77c/clem-onojeghuo-207792-unsplash.webp 1360w,
+/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/24475/clem-onojeghuo-207792-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/a0703/clem-onojeghuo-207792-unsplash.jpg 340w,
-/static/6346e1b3959c2359992fc4a3055afae7/5041d/clem-onojeghuo-207792-unsplash.jpg 680w,
-/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg 1360w,
-/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/a0703/clem-onojeghuo-207792-unsplash.jpg 340w,
+/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/5041d/clem-onojeghuo-207792-unsplash.jpg 680w,
+/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg 1360w,
+/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -204,7 +204,7 @@ Note: All images on this website are used according to copyright law. Images are
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg&quot;
+    href=&quot;/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -220,28 +220,28 @@ Note: All images on this website are used according to copyright law. Images are
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/53e9f/mitch-lensink-588486-unsplash.webp 340w,
-/static/076d9f90da7d84f2eafcfc5f26deecfa/0991f/mitch-lensink-588486-unsplash.webp 680w,
-/static/076d9f90da7d84f2eafcfc5f26deecfa/9d77c/mitch-lensink-588486-unsplash.webp 1360w,
-/static/076d9f90da7d84f2eafcfc5f26deecfa/24475/mitch-lensink-588486-unsplash.webp 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/53e9f/mitch-lensink-588486-unsplash.webp 340w,
+/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/0991f/mitch-lensink-588486-unsplash.webp 680w,
+/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/9d77c/mitch-lensink-588486-unsplash.webp 1360w,
+/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/24475/mitch-lensink-588486-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/a0703/mitch-lensink-588486-unsplash.jpg 340w,
-/static/076d9f90da7d84f2eafcfc5f26deecfa/5041d/mitch-lensink-588486-unsplash.jpg 680w,
-/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg 1360w,
-/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/a0703/mitch-lensink-588486-unsplash.jpg 340w,
+/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/5041d/mitch-lensink-588486-unsplash.jpg 680w,
+/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg 1360w,
+/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -252,7 +252,7 @@ Note: All images on this website are used according to copyright law. Images are
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+    href=&quot;/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -268,28 +268,28 @@ Note: All images on this website are used according to copyright law. Images are
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/53e9f/ricardo-gomez-angel-180819-unsplash.webp 340w,
-/static/73a290867a40d3234d026f7e40d5e362/0991f/ricardo-gomez-angel-180819-unsplash.webp 680w,
-/static/73a290867a40d3234d026f7e40d5e362/9d77c/ricardo-gomez-angel-180819-unsplash.webp 1360w,
-/static/73a290867a40d3234d026f7e40d5e362/24475/ricardo-gomez-angel-180819-unsplash.webp 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/53e9f/ricardo-gomez-angel-180819-unsplash.webp 340w,
+/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/0991f/ricardo-gomez-angel-180819-unsplash.webp 680w,
+/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/9d77c/ricardo-gomez-angel-180819-unsplash.webp 1360w,
+/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/24475/ricardo-gomez-angel-180819-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/a0703/ricardo-gomez-angel-180819-unsplash.jpg 340w,
-/static/73a290867a40d3234d026f7e40d5e362/5041d/ricardo-gomez-angel-180819-unsplash.jpg 680w,
-/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg 1360w,
-/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/a0703/ricardo-gomez-angel-180819-unsplash.jpg 340w,
+/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/5041d/ricardo-gomez-angel-180819-unsplash.jpg 680w,
+/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg 1360w,
+/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -300,7 +300,7 @@ Note: All images on this website are used according to copyright law. Images are
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg&quot;
+    href=&quot;/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -316,28 +316,28 @@ Note: All images on this website are used according to copyright law. Images are
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/53e9f/joanna-kosinska-254406-unsplash.webp 340w,
-/static/d85512b0b9ce8d33ff86606608d65c53/0991f/joanna-kosinska-254406-unsplash.webp 680w,
-/static/d85512b0b9ce8d33ff86606608d65c53/9d77c/joanna-kosinska-254406-unsplash.webp 1360w,
-/static/d85512b0b9ce8d33ff86606608d65c53/24475/joanna-kosinska-254406-unsplash.webp 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/53e9f/joanna-kosinska-254406-unsplash.webp 340w,
+/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/0991f/joanna-kosinska-254406-unsplash.webp 680w,
+/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/9d77c/joanna-kosinska-254406-unsplash.webp 1360w,
+/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/24475/joanna-kosinska-254406-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/a0703/joanna-kosinska-254406-unsplash.jpg 340w,
-/static/d85512b0b9ce8d33ff86606608d65c53/5041d/joanna-kosinska-254406-unsplash.jpg 680w,
-/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg 1360w,
-/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg 2000w&quot;
+          srcset=&quot;/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/a0703/joanna-kosinska-254406-unsplash.jpg 340w,
+/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/5041d/joanna-kosinska-254406-unsplash.jpg 680w,
+/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg 1360w,
+/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
+          src=&quot;/water-in-the-desert/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -345,17 +345,17 @@ Note: All images on this website are used according to copyright law. Images are
   
   &lt;/a&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Interlude]]></title><description><![CDATA[A cactus doesn’t live in the desert because it likes the desert; it lives there because the desert hasn’t killed it yet…]]></description><link>https://mandydavis.github.io/water-in-the-desert//interlude/</link><guid isPermaLink="false">https://mandydavis.github.io/water-in-the-desert//interlude/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A cactus doesn’t live in the desert because it likes the desert; it lives there because the desert hasn’t killed it yet.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/roof_rain-e880fdc53397efb04d141bb5e001626d.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/street_gutter-35794430a68bd88e53b3847ae0416fa1.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/feet_water-3422b3bfa079038a2160b75163a3b1a6.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/lemon_tree-e6893ef90b45c4fadbd6dda8800fe7a1.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/mesquite-2cebbfae2d4bc9d153d1770ebf63e914.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/oasis-e19f33740bef249348388cba60353d38.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/onyx_oasis-0cec6963763051ef08471d516629d97b.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/palos_verde_drops-6d1c24ab9b02f0dd6074d23874a8e7a8.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/pool_drops-d562022431f5d3a20e636b7445b0266e.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/prickly_drop-c00c7f57e47f6807892f484c7231aef3.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/river_rocks-f6560463c6503f4200f907809ff4ded0.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ch 4: Gila River Case Study]]></title><description><![CDATA[A cactus doesn’t live in the desert because it likes the desert; it lives there because the desert hasn’t killed it yet…]]></description><link>https://mandydavis.github.io/water-in-the-desert//gila-river/</link><guid isPermaLink="false">https://mandydavis.github.io/water-in-the-desert//gila-river/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A cactus doesn’t live in the desert because it likes the desert; it lives there because the desert hasn’t killed it yet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/roof_rain-e880fdc53397efb04d141bb5e001626d.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/street_gutter-35794430a68bd88e53b3847ae0416fa1.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/feet_water-3422b3bfa079038a2160b75163a3b1a6.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/lemon_tree-e6893ef90b45c4fadbd6dda8800fe7a1.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/mesquite-2cebbfae2d4bc9d153d1770ebf63e914.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/oasis-e19f33740bef249348388cba60353d38.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/onyx_oasis-0cec6963763051ef08471d516629d97b.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/palos_verde_drops-6d1c24ab9b02f0dd6074d23874a8e7a8.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/pool_drops-d562022431f5d3a20e636b7445b0266e.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/prickly_drop-c00c7f57e47f6807892f484c7231aef3.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/water-in-the-desert/river_rocks-f6560463c6503f4200f907809ff4ded0.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ch 4: Gila River Case Study]]></title><description><![CDATA[A cactus doesn’t live in the desert because it likes the desert; it lives there because the desert hasn’t killed it yet…]]></description><link>https://mandydavis.github.io/water-in-the-desert//gila-river/</link><guid isPermaLink="false">https://mandydavis.github.io/water-in-the-desert//gila-river/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A cactus doesn’t live in the desert because it likes the desert; it lives there because the desert hasn’t killed it yet.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;./roof_rain.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;./street_gutter.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;./feet_water.gif&quot; alt=&quot;Cactus&quot;&gt;&lt;/p&gt;
